@@ -43,7 +43,7 @@ Although new to coding, which may have impacted this analysis, writing the code 
 While it may have taken longer to write the benefits were undeniable when it comes to run times.  The refactored code was significantly faster to run as noted in the above comparisons. This run time benefit would only be amplified with larger datasets.
 
 ### Advantages or disadvantages between the two coding styles.
-The refactored code in VBA particularly does seem to have advantages.  Using the arrays and allowed us to store data with a single variable name and while changing the index.  Doing so allowed storing of the rests of the analysis e.g.: volumes, starting price and ending price.  Being able to store a number of values per ticker allowed us to only write to the spreadsheet at the end of the analysis.  In the original code the macro would write to the output file after each loop. Reducing the incidence of writing to the results worksheet improves the overall run time.
+The refactored code in VBA particularly does seem to have advantages.  Using the arrays and allowed us to store data with a single variable name and while changing the index.  Doing so allowed storing of the results of the analysis e.g.: volumes, starting price and ending price.  Being able to store a number of values per ticker allowed us to only write to the spreadsheet at the end of the analysis.  In the original code the macro would write to the output file after each ticker loop. Reducing the incidence of writing to the results worksheet improves the overall run time.
 
 #### Original code
 
