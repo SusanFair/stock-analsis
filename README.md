@@ -1,8 +1,7 @@
 # stock-analsis
 
 ## Overview of Project
-Purpose and background
-Following an analysis of The following is the result of an analysis of refactoring code.  This analysis was designed to answer the following questions:
+This project will compare coding styles to assess the most efficient way to perform a stock performance analysis.  Since this sub routine may be run hundreds of times on thousands of stock combination effficiency is paramount.  We will compare origina coding vs the result of refactoring code.  This analysis was designed to answer the following questions:
 * Was the refactored code faster and/or ore efficient to write?
 * Was the refactored code faster to run?
 * Advantages or disadvantages between the two coding styles.
