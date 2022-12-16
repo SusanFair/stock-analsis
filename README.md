@@ -45,10 +45,16 @@ Although new to coding, which may impact this analysis, writing the code using t
 While it may have taken longer to write the benefits were undeniable when it comes to run times.  The refactored code was significantly faster to run as noted in the above stated comparisons. This run time benefit would only be amplified with larger datasets.
 
 ### Advantages or disadvantages between the two coding styles.
-The refactored code does seem to have advantages.  Using the arrays and allowed us to story data using a single variable name and while changing the index.  Doing so allowed storing of the rests of the analysis e.g.: volumes, starting price and ending price.  Being able to store a number of values per ticker allowed us to only write to the spreadsheet at the end of the analysis.  In the original code the macro would write to the output file after each loop
+The refactored code does seem to have advantages.  Using the arrays and allowed us to story data using a single variable name and while changing the index.  Doing so allowed storing of the rests of the analysis e.g.: volumes, starting price and ending price.  Being able to store a number of values per ticker allowed us to only write to the spreadsheet at the end of the analysis.  In the original code the macro would write to the output file after each loop. Reducing the incidence of writing to the results worksheet improves the overall run time.
+
+#### Original code
+
+![Alt text](https://github.com/SusanFair/stock-analysis/blob/main/Resources/Write_original_code.PNG)
 
 
+#### Refactored Code
 
+![Alt text](https://github.com/SusanFair/stock-analysis/blob/main/Resources/Write_refactored_code.PNG)
 
 
 
