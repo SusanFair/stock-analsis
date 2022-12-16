@@ -15,10 +15,12 @@ While the two sub routines performed the same actions AllStocksAnalysis (the ini
 ## Results
 We can see the results of the refactoring in the run times for each the original code and the refactored.
 
-Original code:
+### Original code:
+
 ![2017 original](https://github.com/SusanFair/stock-analysis/blob/main/Resources/green_stocks_original/green_stocks_original_2017.PNG)     2018 run time - ![2018 original](https://github.com/SusanFair/stock-analysis/blob/main/Resources/green_stocks_original/green_stocks_original_2018.PNG)
 
-Refactored Code:
+
+### Refactored Code:
 * 2017 Refactored run time - ![2017 refactored](https://github.com/SusanFair/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 * 2018 Refactored run time - ![Alt text](https://github.com/SusanFair/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
