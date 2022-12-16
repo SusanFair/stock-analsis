@@ -17,12 +17,15 @@ We can see the results of the refactoring in the run times for each the original
 
 ### Original code:
 
-![2017 original](https://github.com/SusanFair/stock-analysis/blob/main/Resources/green_stocks_original/green_stocks_original_2017.PNG)     2018 run time - ![2018 original](https://github.com/SusanFair/stock-analysis/blob/main/Resources/green_stocks_original/green_stocks_original_2018.PNG)
+![2017 original](https://github.com/SusanFair/stock-analysis/blob/main/Resources/green_stocks_original/green_stocks_original_2017.PNG) 
+
+![2018 original](https://github.com/SusanFair/stock-analysis/blob/main/Resources/green_stocks_original/green_stocks_original_2018.PNG)
 
 
 ### Refactored Code:
-* 2017 Refactored run time - ![2017 refactored](https://github.com/SusanFair/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
-* 2018 Refactored run time - ![Alt text](https://github.com/SusanFair/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
+![2017 refactored](https://github.com/SusanFair/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+
+![Alt text](https://github.com/SusanFair/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 Benefit:
 Able to store data using a single variable name with a changing index
