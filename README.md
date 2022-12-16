@@ -15,10 +15,9 @@ While the two sub routines performed the same actions AllStocksAnalysis (the ini
 ## Results
 
 ### Initial Stock Analysis
-The inital analysis was on the stock DAQO (ticker DQ).  While in 2017 DQ had a 199.4% return on investment it's daily volumes were low.  In 2018 while the volumes increased the return on investment dropped sisgnificantly.  The 2018 return on investment was a low -62.6%.   
+The inital analysis was on the stock DAQO (ticker DQ).  While in 2017 DQ had a 202.0% return on investment it's daily volumes were low.  In 2018 while the volumes increased the return on investment dropped sisgnificantly.  The 2018 return on investment was a low -61.1%.   
 
-![Alt text](https://github.com/SusanFair/stock-analysis/blob/main/Resources/VBA_Challenge_2017_table.PNG)
-
+![Alt text](https://github.com/SusanFair/stock-analysis/blob/main/Resources/VBA_Challenge_2017_table.PNG)     
 ![Alt text](https://github.com/SusanFair/stock-analysis/blob/main/Resources/VBA_Challenge_2018_table.PNG)
 
 
